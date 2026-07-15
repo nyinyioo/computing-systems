@@ -1,0 +1,15 @@
+# ignore 
+*:Zone.Identifier
+
+# source code
+*.c
+*.h
+**/Makefile
+
+# compiled binaries
+allocator/alloc
+shell/crash
+virtual_mem/vmem
+
+# text output
+allocator/valgrind.txt
