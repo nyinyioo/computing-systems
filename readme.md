@@ -1,12 +1,10 @@
 ### OS Fundamentals
 
-Projects focused on understanding memory management, signals and processes, and virtual memory in C.
+Projects focused on understanding memory management, signals and processes, and OS/161 concepts in C.
 
 | Project | Description |
 |---|---|
-| 🧱 Allocator | malloc, free, realloc |
-| 🗺️ Virtual Memory | page tables, address translation, swap |
+| 🎈 Airballoon | locks, condition variables, semaphores (in progress) |
 | ⚙️ Shell | processes, signals, fork/exec |
-| 💾 Shell v2 | shell + virtual memory + allocator |
-
-> **Note:** code available on request
+| 🗺️ Virtual Memory | page tables, address translation, swap |
+| 🧱 Allocator | malloc, free, realloc |

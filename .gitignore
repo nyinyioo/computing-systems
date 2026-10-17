@@ -1,15 +1,20 @@
 # ignore 
 *:Zone.Identifier
 
-# source code
-*.c
-*.h
-**/Makefile
+# allocator 
+allocator/debug.c
+allocator/unity_internals.h
+allocator/unity.c
+allocator/unity.h
+# text output
+allocator/valgrind.txt
+
+# vmem
+virtual_mem/smoketest.c
 
 # compiled binaries
 allocator/alloc
 shell/crash
 virtual_mem/vmem
 
-# text output
-allocator/valgrind.txt
+
