@@ -4,7 +4,7 @@ Projects focused on understanding memory management, signals and processes, and 
 
 | Project | Description |
 |---|---|
-| 🎈 Airballoon | locks, condition variables, semaphores (in progress) |
+| 🎈 Airballoon | locks, condition variables, semaphores 🚧 |
 | ⚙️ Shell | processes, signals, fork/exec |
 | 🗺️ Virtual Memory | page tables, address translation, swap |
 | 🧱 Allocator | malloc, free, realloc |
